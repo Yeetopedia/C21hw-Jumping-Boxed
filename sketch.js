@@ -70,6 +70,3 @@ if (movingRect.y<30) {
   drawSprites();
 }
 
-function wassupgamerz() {
-
-}
